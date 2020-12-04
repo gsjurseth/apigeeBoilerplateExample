@@ -36,7 +36,7 @@
     <Response/>
   </PostFlow>
   <HTTPProxyConnection>
-    <BasePath>/v2/catalog</BasePath>
+    <BasePath>/v1/httpbin</BasePath>
     <VirtualHost>secure</VirtualHost>
   </HTTPProxyConnection>
   <RouteRule name="NOROUTE">

@@ -13,7 +13,7 @@
     "environments" : [ "prod", "test"  ],
     "lastModifiedAt" : 1598347132467,
     "name" : "HostedTargetProduct",
-    "proxies" : [ "httpbinTarget" ],
+    "proxies" : [ "hostedTarget" ],
     "scopes" : [ ]
   }
 ]
