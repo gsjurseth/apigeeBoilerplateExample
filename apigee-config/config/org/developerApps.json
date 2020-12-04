@@ -1,0 +1,7 @@
+{
+  "gsjurseth+external-mesh@google.com": [{
+    "apiProducts" : [ "HostedTargetProduct" ],
+    "name" : "HTApp",
+    "scopes": []
+  }]
+}

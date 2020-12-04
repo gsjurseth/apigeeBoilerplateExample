@@ -1,0 +1,19 @@
+[
+  {
+    "apiResources" : [ ],
+    "approvalType" : "auto",
+    "attributes" : [ {
+      "name" : "access",
+      "value" : "public"
+    }],
+    "createdAt" : 1598347132467,
+    "createdBy" : "gsjurseth@google.com",
+    "description" : "",
+    "displayName" : "HostedTargetProduct",
+    "environments" : [ "prod", "test"  ],
+    "lastModifiedAt" : 1598347132467,
+    "name" : "HostedTargetProduct",
+    "proxies" : [ "httpbinTarget" ],
+    "scopes" : [ ]
+  }
+]
