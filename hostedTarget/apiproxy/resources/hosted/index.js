@@ -14,7 +14,7 @@ const backends = {
 
 const logger = winston.createLogger({
   level: DEBUG,
-  defaultMeta: { service: 'catalog' },
+  defaultMeta: { service: 'hostedTarget' },
   format: winston.format.combine(
     winston.format.splat(),
     winston.format.simple()
